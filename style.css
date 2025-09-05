@@ -1,4 +1,16 @@
 body{
  background-color: peru;
  display:flex ;
+ justify-content: center;
+ align-items: center;
+ height: 700px;
+ margin: 0;
+
+
+}
+
+button {
+    background-color: olive;
+    color: brown;
+    font-family: "Bai Jamjuree", sans-serif;
 }
